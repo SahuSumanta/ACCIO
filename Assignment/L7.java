@@ -44,6 +44,7 @@ public class L7 {
         arr[i] = sc.nextInt();
       }
       System.out.println(dominantIndex(arr));
+      sc.close();
     }
   
   public static int dominantIndex(int[] nums) {
