@@ -15,6 +15,7 @@ public class Array5 {
 
         Arrays.sort(arr);
 
-        System.out.println(arr[n-2]);        
+        System.out.println(arr[n-2]);
+        in.close();    
     }
 }
