@@ -20,5 +20,7 @@ public class c3 {
       else{
         System.out.println("2");
       }
+
+      in.close();
     }
 }
