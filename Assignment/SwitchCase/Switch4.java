@@ -7,8 +7,9 @@ public class Switch4 {
         Scanner sc = new Scanner(System.in);
         String S = sc.next();
         System.out.println(lastIndex(S));
+        sc.close();
     }
-
+    
     public static int lastIndex( String s) {
         
         char[] ch = s.toCharArray();
