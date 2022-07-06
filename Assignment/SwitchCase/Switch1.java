@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Factorial Of a Number
  */
-public class Sc1 {
+public class Switch1 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
