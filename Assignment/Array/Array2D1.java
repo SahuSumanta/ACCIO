@@ -29,5 +29,7 @@ public class Array2D1 {
         }
 
         System.out.println(sum1+"\n"+sum2);
+
+        sc.close();
     }
 }
