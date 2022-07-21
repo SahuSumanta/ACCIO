@@ -27,6 +27,8 @@ public class BoleanMatrix {
             }
             System.out.println();
         }
+
+        in.close();
     }
 
     //method
