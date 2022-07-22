@@ -1,6 +1,6 @@
 package Assignment.Sorting;
 
-import java.util.Arrays;
+
 import java.util.Scanner;
 
 public class InsertionSort2 {
