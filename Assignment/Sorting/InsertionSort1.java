@@ -43,6 +43,8 @@ public class InsertionSort1 {
             if(check)
                 break;
         }
+
+        sc.close();
     }
 
 }
