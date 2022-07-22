@@ -73,9 +73,9 @@ public class Ptice {
             scoreGoran++;
           }
         }
- 
-          String result = "";
-      int res;
+ s.close();
+ String result = "";
+ int res;
       
           if(scoreAdrian>=scoreBruno && scoreAdrian>=scoreGoran) {
             res = scoreAdrian;
@@ -99,7 +99,6 @@ public class Ptice {
       if(res == scoreGoran) {
         System.out.println("Goran");
         }
-
 
     }
 }
